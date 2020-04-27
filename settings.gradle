@@ -1,0 +1,2 @@
+rootProject.name='dcamapp'
+include ':app'
